@@ -1,0 +1,14 @@
+clickTouch.js v0.1
+Shawn Khameneh
+MIT License
+
+To use, just include "clickTouch.js" in your web application
+and run "clickTouch.init()" when the document is ready.
+
+You can also run "clickTouch.init(true)" to prevent default
+override mouse events entirely.
+
+Example (if using jQuery):
+$(document).ready(function(){
+	clickTouch.init();
+});
