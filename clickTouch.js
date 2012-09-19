@@ -1,3 +1,9 @@
+/*
+clickTouch.js v0.1
+Shawn Khameneh
+MIT License
+*/
+
 var clickTouch = function(){
 	var isDown = false;
 	
